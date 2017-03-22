@@ -39,6 +39,7 @@ namespace SquareChase
         /// </summary>
         protected override void Initialize()
         {
+            IsMouseVisible = true;
             // TODO: Add your initialization logic here
 
             base.Initialize();
